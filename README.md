@@ -55,7 +55,8 @@ python main.py
 
 ## 🧪 Usage
 
-python main.py
+python main.py 
+
 Then input:
 
 🔹 Target IP or Hostname
@@ -78,7 +79,7 @@ This tool is intended for educational and authorized penetration testing only. N
 
 ---
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
